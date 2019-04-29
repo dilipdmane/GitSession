@@ -2,3 +2,5 @@ Test File change
 New bug fix added
 
 Feature Added ...
+
+Release fixes
